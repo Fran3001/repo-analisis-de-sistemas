@@ -1,5 +1,0 @@
-import celda as c
-class celdaCasaA(c):
-    def __init__(self, tablero, x_pos, y_pos):
-        super().__init__(tablero, x_pos, y_pos)
-        self.tipo = "CasaB"
